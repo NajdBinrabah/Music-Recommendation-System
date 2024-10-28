@@ -4,7 +4,7 @@
 
 ---
 
-Recommendation systems aim to suggest items to users based on their preferences and behaviour. The project explores different recommendation techniques, each with its unique approach to predicting user preferences. The primary goal is to understand and implement different recommendation techniques and evaluate their performance. The effectiveness of these models is evaluated using various metrics to determine the best approach for providing accurate recommendations.
+Recommendation systems aim to suggest items to users based on their preferences and behaviour. The project explores diverse recommendation techniques, each with its unique approach to predicting user preferences. The primary goal is to understand and implement different recommendation techniques and evaluate their performance. The effectiveness of these models is evaluated using various metrics to determine the best approach for providing accurate recommendations.
 
 You can view the detailed Notebook for this project [here](https://github.com/Najd-Binrabah/Music-Recommendation-System/blob/main/Music_Recommendation_System.ipynb). The models explored in this project include:
 
