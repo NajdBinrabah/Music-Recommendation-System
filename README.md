@@ -1,6 +1,6 @@
 <h1 align="center">Music Recommendation System</h1>
 
-<p align="center">This is a personal project focused on exploring various models for creating a Music Recommendation System</p>
+<p align="center">This is a personal project focused on exploring various models for creating a Music Recommendation System.</p>
 
 ---
 
